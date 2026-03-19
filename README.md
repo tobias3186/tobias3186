@@ -1,5 +1,5 @@
 <div align="center">
-# Hey, I'm Tobias <img width="25px" src="512.gif">
+<h1>Hey, I'm Tobias <img width="25px" src="512.gif"></h1>
 </div>
 Currently a high school student studying computer science, building projects along the way.
   
