@@ -2,10 +2,10 @@
 <h1>Hey, I'm Tobias <img width="25px" src="512.gif"></h1>
 
 <p>Currently a high school student studying computer science, building projects along the way.</p>
+
+<p>Feel free to check out my repositories! <img width="17px" src="cat.gif"></p>
 </div>
 
-
-Feel free to check out my repositories! <img width="17px" src="cat.gif">
 ## About Me:
 I'm still learning and experimenting with different things, mostly by building small projects. <img width="17px" src="plant.gif">
 ## Tech:
