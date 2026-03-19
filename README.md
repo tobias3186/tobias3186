@@ -8,9 +8,11 @@ I'm still learning and experimenting with different things, mostly by building s
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ## GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tobias3186" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tobias3186" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobias3186&layout=compact" />
+  <ul style="list-style-position: inside;">
+    <li><img src="https://github-readme-stats.vercel.app/api?username=tobias3186"></li>
+    <li><img src="https://nirzak-streak-stats.vercel.app/?user=tobias3186"></li>
+    <li><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobias3186&layout=compact"></li>
+  </ul>
 </div>
 
 ### Top Contributed Repo
