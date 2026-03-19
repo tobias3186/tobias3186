@@ -1,8 +1,9 @@
 <div align="center">
 <h1>Hey, I'm Tobias <img width="25px" src="512.gif"></h1>
+
+<p>Currently a high school student studying computer science, building projects along the way.</p>
 </div>
 
-Currently a high school student studying computer science, building projects along the way.
 
 Feel free to check out my repositories! <img width="17px" src="cat.gif">
 ## About Me:
