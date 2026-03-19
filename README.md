@@ -1,10 +1,12 @@
 <div align="center">
 <h1>Hey, I'm Tobias <img width="25px" src="512.gif"></h1>
 </div>
-Currently a high school student studying computer science, building projects along the way.<br>  
-Feel free to check out my repositories! <img width="20px" src="cat.gif">
+
+Currently a high school student studying computer science, building projects along the way.
+
+Feel free to check out my repositories! <img width="17px" src="cat.gif">
 ## About Me:
-I'm still learning and experimenting with different things, mostly by building small projects. <img width="20px" src="plant.gif">
+I'm still learning and experimenting with different things, mostly by building small projects. <img width="17px" src="plant.gif">
 ## Tech:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ## GitHub Stats:
